@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Gym-Static-WebPage/static/css/main.74739a8f.css",
+    "main.js": "/Gym-Static-WebPage/static/js/main.4384a3b2.js",
+    "static/media/boxing2.mp4": "/Gym-Static-WebPage/static/media/boxing2.af8faef4c090a5ae02ac.mp4",
+    "static/media/swim.jpg": "/Gym-Static-WebPage/static/media/swim.9829d7dccf54c4f11a63.jpg",
+    "static/media/gymming.jpg": "/Gym-Static-WebPage/static/media/gymming.5bcfafdf7e15ffa72418.jpg",
+    "static/media/trainer.png": "/Gym-Static-WebPage/static/media/trainer.62e6de6c92737bb8e6b8.png",
+    "static/media/png_Hero2.png": "/Gym-Static-WebPage/static/media/png_Hero2.745e1df879c577426b3f.png",
+    "static/media/carousel_image2.png": "/Gym-Static-WebPage/static/media/carousel_image2.e9dec42a3926403889c9.png",
+    "static/media/carousel_image3.png": "/Gym-Static-WebPage/static/media/carousel_image3.fc6441f6012700d09234.png",
+    "static/media/carousel_image1.png": "/Gym-Static-WebPage/static/media/carousel_image1.d1b1c63be5e351cce824.png",
+    "static/media/carousel_image4.png": "/Gym-Static-WebPage/static/media/carousel_image4.1a6ad389ffe30d779df9.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Gym-Static-WebPage/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/Gym-Static-WebPage/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Gym-Static-WebPage/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Gym-Static-WebPage/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Gym-Static-WebPage/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/drip-gym.png": "/Gym-Static-WebPage/static/media/drip-gym.13a0a5a5e19c1515273e.png",
+    "index.html": "/Gym-Static-WebPage/index.html",
+    "main.74739a8f.css.map": "/Gym-Static-WebPage/static/css/main.74739a8f.css.map",
+    "main.4384a3b2.js.map": "/Gym-Static-WebPage/static/js/main.4384a3b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74739a8f.css",
+    "static/js/main.4384a3b2.js"
+  ]
+}
