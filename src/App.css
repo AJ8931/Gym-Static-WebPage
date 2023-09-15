@@ -32,7 +32,40 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.s1 {
+  width: 100vw;
+  height: 100vh;
+  padding: 10vw 5vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wrapper {
+  width: 400vw;
+  height: 100vh;
+  display: flex;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+
+.header {
+  background-color: lightgray;
+}
+
+.first {
+  background-color: lightyellow;
+}
+
+.second {
+  background-color: lightblue;
 }

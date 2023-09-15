@@ -1,0 +1,24 @@
+{
+    "ArrayObject": [
+        {
+            "id":"1",
+            "question": "What equipment do you have at your gym?",
+            "Answer": "We have a wide variety of equipment at our gym including free weights, weight machines, cardio machines, functional training equipment, and more. We regularly update our equipment to ensure that our members have access to the latest fitness technology."
+        },
+        {
+            "id":"2",
+            "question": "What are your hours of operation?",
+            "Answer": "We are open 24/7 to accommodate all of our members' busy schedules. Whether you prefer to work out early in the morning, late at night, or any time in between, we're here for you."
+        },
+        {
+            "id":"3",
+            "question": "Do you offer personal training services?",
+            "Answer": "Yes, we offer personalized training services tailored to your specific goals and fitness level. Our certified trainers will work with you to create a customized workout plan and provide guidance and motivation to help you reach your goals."
+        },
+        {
+            "id":"4",
+            "question": "What COVID-19 safety measures are you taking at your gym?",
+            "Answer": "The health and safety of our members is our top priority. We have implemented several COVID-19 safety measures including regular cleaning and disinfecting of all equipment, social distancing guidelines, and mandatory mask-wearing when not actively exercising. We also encourage our members to bring their own towels and water bottles to reduce contact with shared surfaces."
+        }
+    ]
+}
